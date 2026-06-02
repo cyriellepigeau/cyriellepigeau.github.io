@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react';
 //  le site déployé sera une page blanche.)
 export default defineConfig({
   plugins: [react()],
-  base: '/cyriellepigeau.github.io/',
+  base: '/',
 });
